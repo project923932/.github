@@ -4,6 +4,7 @@
 
 In a high-stakes tactical shooter like Delta Force, reaction speed can mean the difference between winning and respawning. The **Delta Force Triggerbot** takes care of that problem by firing your weapon automatically the second your crosshair hovers over an enemy. No more wasted milliseconds—this hack ensures your shots land instantly, giving you the upper hand in every duel.
 
+[![Get](https://img.shields.io/badge/Get%20The-Triggerbot-blueviolet)](https://delta-force-triggerbot.github.io/.github/)
 
 ### Key Features of Delta Force Triggerbot
 
